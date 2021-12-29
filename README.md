@@ -52,5 +52,3 @@ class Skills extends Developer {
   ![Snake animation](https://github.com/Murilohim/Murilohim/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-  [![Readme Card](http://github-readme-stats-two-rosy.vercel.app/api/pin/?username=Murilohim&repo=github-readme-stats&theme=aura_dark)](https://github.com/Murilohim/github-readme-stats)
