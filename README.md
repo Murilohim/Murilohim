@@ -21,8 +21,8 @@ class Skills extends Developer {
 
 <div align="center">
   <a href="https://github.com/Murilohim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilohim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilohim&layout=compact&langs_count=7&theme=dracula"/> -->
+  <img height="180em" src="http://github-readme-stats-two-rosy.vercel.app//api?username=Murilohim&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="http://github-readme-stats-two-rosy.vercel.app/api/top-langs/?username=Murilohim&layout=compact&langs_count=10&theme=aura_dark"/>
 </div>
 
 ## Linguagens e Ferramentas:
