@@ -7,7 +7,7 @@ import Developer from 'Murilohim';
 
 class AboutMe extends Developer {
   name = 'Murilo Terenciani';
-  acknowledgements = 'Full stack Developer';
+  acknowledgements = 'Full Stack Developer';
   learning = 'Back end';
 }
 
